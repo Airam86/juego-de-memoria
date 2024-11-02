@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+
+
+body{
+    background: rgb(0,36,35);
+    background: linear-gradient(90deg, rgb(2, 140, 135) 0%, rgb(73, 1, 137) 0%, rgb(136, 1, 1) 100%);
+    font-family:monospace;
+    color:white;
+    background-image: url("./imagenes/cubos-3d-arte_3840x2160_xtrafondos.com.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+main{
+
+    width: 530px;
+    margin: 100px auto 50px;
+    display: flex;
+    align-items: center;
+}
+
+.section1{
+
+padding: 0 10px 10px 10px;
+border-radius: 8px;
+}
+
+h1{
+    font-family: "Audiowide", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    font-size: 33px;
+}
+
+button{
+height: 100px;
+width: 100px;
+font-size: 40px;
+color :white;
+font-weight: bold;
+}
+.section2{
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 200px;
+    height: 400px;
+    padding: 0 20px;
+    margin-top: 130px;
+    padding-top: 20px;
+    font-family: "Audiowide", serif;
+    font-weight: 400;
+    font-size: 12px;
+    
+}
+
+.estadisticas{
+    border: 1px solid white;
+    height: 100px;
+    border-radius: 8px;
+    padding: 8px 20px;
+    box-sizing: border-box;
+}
+
